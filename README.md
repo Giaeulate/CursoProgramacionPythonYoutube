@@ -12,3 +12,4 @@
 ##### • Introducción Matplotlib
 ##### • Animaciones
 ##### • Cálculo ETP (Bonus)
+##### • Convertir datos txt a Excel (Bonus)
